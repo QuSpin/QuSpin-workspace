@@ -1,0 +1,9 @@
+[submodule "QuSpin-Extensions"]
+	path = QuSpin-Extensions
+	url = https://github.com/QuSpin/QuSpin-Extensions.git
+[submodule "parallel-sparse-tools"]
+	path = parallel-sparse-tools
+	url = https://github.com/QuSpin/parallel-sparse-tools.git
+[submodule "QuSpin"]
+	path = QuSpin
+	url = https://github.com/QuSpin/QuSpin.git
